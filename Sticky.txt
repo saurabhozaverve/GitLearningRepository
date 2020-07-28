@@ -1,0 +1,40 @@
+ALTER TABLE EquipmentOrder Add IsPrimaryOrder bit NULL
+ALTER TABLE EquipmentOrder Add PrimaryOrderId bigint null
+
+ALTER TABLE EquipmentOrderDetail Add UpdatedDepartureDate datetime null
+ALTER TABLE EquipmentOrderDetail Add ExtensionNumber int null
+arpan.verve
+Arpantj_81
+
+sept-oct 1268 1268 1420 1420
+1559
+f>backup2013>shivani>_2019>dmt>internal
+851131166
+
+To Do:
+=> Dynamic equation calculation for cash and comp portal billing
+=> Try to find out way for Social media refesh token and scheduler syncing
+=> Date AM/PM Issue while placing the order within mms
+=> create code for delte directory and remove db for all club and district site
+=>Work on mow redmine issue.
+=> Check the code for creation of folder in rotary root folder for club or directory while creating a club
+=>Deploy the code for hmail list on server.
+=> Work on the logic of officer update in semda service
+=> Add ext in order history
+Task Completed Today
+=> Try to work on different ways for redirection of subdomain to single site and get the previous url for redirection it to new pointing.Try with two application for navigation for application error path but didnt able to achieve that.Try to explore different routing option in asp.net and create an alias for same but it didnt work.
+=>Co-ordinate with mital for dynamic calculation process of reservation charge for cash and comp portal.
+=>Try to replicate issue while selecting time in order extension process but not able to replicate the same co-ordinate with arpan sir and nirav for the same.
+=>Update the business logic for making inactive order enabled for editing and change the logic for save button and fixed out issue in save order with extended data by changing the condition for the same and deploy it on dev server.
+
+
+https://csharp.hotexamples.com/examples/DocuSign.eSign.Api/EnvelopesApi/-/php-envelopesapi-class-examples.html
+https://marcin-chwedczuk.github.io/automatically-generate-new-oauth2-tokens-when-using-postman
+Facebook Application request LiveFeed
+AccountId:6008691
+EnvelopeId:"f4d40c1e-2899-4a89-be42-1541e2233055"
+d8bc1af0-a20c-4348-8d58-25d70820408a
+https://developers.docusign.com/esign-rest-api/guides/status-and-error-codes
+https://developers.docusign.com/esign-rest-api/code-examples/polling-for-envelope-status
+https://developers.docusign.com/esign-rest-api/reference/Envelopes/EnvelopeFormData/get
+
